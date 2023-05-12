@@ -1,5 +1,9 @@
-public class Stat
+namespace Models
 {
-    public string name;
-    public string description;
+    public class Stat
+    {
+        public string name;
+        public string description;
+
+    }
 }
